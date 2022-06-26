@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.base.BaseDemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-26T07:35:27" hostname="DESKTOP-NIR670B" time="0.016">
+  <properties/>
+  <testcase name="should_return_hello_world()" classname="demo.base.BaseDemoTest" time="0.016"/>
+  <system-out><![CDATA[TEST ONE : 1 + 2 = 3
+TEST TWO -1 + (-4) = -4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
